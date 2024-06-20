@@ -29,3 +29,7 @@ for (let i = 0; i < 20; i++) {
 yourGPA = total / totalCredits;
 
 console.log(yourGPA.toFixed(6));
+
+/**
+ * - toFixed(): 숫자를 지정된 소수점 자리수까지 반올림하여 문자열로 반환
+ */
